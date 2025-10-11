@@ -7,8 +7,6 @@
    "tjtijti",
    "kentoo",
  "afaq76",
-"newayan"'
 "ayantemp",
     ]
 }
-
